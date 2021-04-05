@@ -38,7 +38,7 @@ Section 1 - Group A
 
 Section 1 - Group B
 
-1. [Seth Bennett](https://github.com/Sbennett99/big-data-developers)
+1. [Seth Bennett](https://github.com/Sbennett99/About-Me)
 2. [Rohan Goud Bhandari](https://github.com/rohan6471/bigdata-dev)
 3. [Annie Samarpitha Chandolu](https://github.com/annie0sc/big-data-dev)
 4. [Rajeev Chapagain](https://github.com/Rajeevbro/big-data-developers)
